@@ -1,4 +1,66 @@
 .main{
     margin: 10px;
-    background-color: blueviolet;
+    /*background-color: ;*/
 }
+.bg1{
+
+    background-color:brown;
+}
+.bg2{
+
+    background-color:blueviolet;
+}
+.mennuburger{
+    margin: 10px;
+    background-color: rgb(219, 111, 34);
+}
+
+.maintitre{
+
+}
+
+.categories{
+display: flex;
+background-color: aqua;
+justify-content: space-evenly;
+align-items: center;
+word-spacing: 100px;
+height: 50px;
+}
+.category{
+    display: flex;
+    align-items: center;
+
+  
+    border-radius: 15px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.element{
+    background-color: chartreuse;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.poivron{
+    background-color: aqua;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    width: 330px;
+    height: 100px;
+    align-items: center;
+
+
+}
+.tpoi
+
+
+
